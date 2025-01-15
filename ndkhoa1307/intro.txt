@@ -1,0 +1,1 @@
+Hi everyone, my name is Khoa, I am a Web Developer and my tech-stack includes ReactJS and NodeJS. I am also an AI Majored student at FPT University with proficiency in Deep Learning in general and RNN in particular. I also love playing badminton and video games in my free time. Nice to meet you all !
