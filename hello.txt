@@ -1,1 +1,4 @@
-Hello World!
+Hi!
+I'm Viet, Currently learning in FPT University. Right now, I'm dreaming about how to get gud in Git and GitHub.
+My hobbies are games and Maths despite being nowhere close to having outstanding performance.
+That's all what I have to share.
